@@ -1,0 +1,52 @@
+.input-ele{
+    text-align: center;
+    border: 2px solid ;
+    width: 550px;
+    margin: auto;
+    transform: translateY(140px);
+    background-color:lightpink;
+    /* background-color: rgb(222, 57, 245); */
+
+}
+.input-ele button{
+    margin-bottom: 50px;
+}
+.div-part{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+   
+    margin: auto;
+    /* border: 2px solid ; */
+}
+.sub-main{
+ height: 250px;
+    width: 300px; 
+    border: 2px solid;
+    margin-top: 30px;
+    text-align: center;
+}
+
+#btn-part{
+    margin-top: 30px;
+    height: 40px;
+    width: 110px;
+    font-size :20px ;
+    font-weight: 500;
+    text-transform: uppercase;
+    background-color: rgb(222, 57, 245);
+    
+
+box-shadow: 5px 5px 8px ;
+    /* background-color: lightskyblue; */
+}
+#btn-part:hover{
+    color: rgb(222, 57, 245);
+    background-color:lightskyblue ;
+    
+}
+input {
+    height: 30px;
+    width: 200px;
+    border-radius: 15px;
+}
